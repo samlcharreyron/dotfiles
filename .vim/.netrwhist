@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/sam/src/swig/Examples/matlab/modules'
+let g:netrw_dirhist_2='/home/sam/src/swig-matlab/src'
+let g:netrw_dirhist_3='/home/sam/src/swig/Examples/matlab/funcptr'
+let g:netrw_dirhist_4='/home/sam/src/swig/Examples/matlab/modules'
+let g:netrw_dirhist_5='/home/sam/src/swig/Examples/matlab/template'
+let g:netrw_dirhist_6='/home/sam/cath_control_ws/src'
+let g:netrw_dirhist_7='/home/sam/cath_control_ws/src/orth_cath_tracker'
+let g:netrw_dirhist_8='/home/sam/cath_control_ws/src'
